@@ -1,3 +1,3 @@
-#Trust is a phpMyAdmin theme with a modern design
+# Trust is a phpMyAdmin theme with a modern design
 
 > In development
